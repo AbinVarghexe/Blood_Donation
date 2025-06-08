@@ -60,7 +60,7 @@ Fix any issues shown by flutter doctor before proceeding.
 
 1. Go to [Firebase Console](https://console.firebase.google.com/)
 2. Click "Create a project"
-3. Enter project name: `lifeline-blood-donation`
+3. Enter project name: `blood-donation`
 4. Choose your country/region
 5. Accept Firebase terms
 6. Wait for project creation

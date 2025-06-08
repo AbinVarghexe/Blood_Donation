@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "123456789012",
-    "project_id": "lifeline-blood-donation-demo",
-    "storage_bucket": "lifeline-blood-donation-demo.appspot.com"
+    "project_number": "518265723072",
+    "project_id": "blooddonationapp-80d50",
+    "storage_bucket": "blooddonationapp-80d50.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123456789012:android:abcdef1234567890",
+        "mobilesdk_app_id": "1:518265723072:android:97f3c5cc122d0528baf525",
         "android_client_info": {
-          "package_name": "com.example.lifeline_blood_donation_app"
+          "package_name": "com.blooddonation.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123456789012-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercontent.com",
+          "client_id": "518265723072-e7edj3ljvbue9qgnv4eaee7s0ut5sfmu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDemoKey-1234567890abcdefghijklmnop"
+          "current_key": "AIzaSyAbWwnstRIyFxpDnSS4W3WzBzWCRh_Xn9k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "123456789012-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercontent.com",
+              "client_id": "518265723072-e7edj3ljvbue9qgnv4eaee7s0ut5sfmu.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
